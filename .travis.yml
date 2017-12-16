@@ -1,3 +1,4 @@
-language: java
-jdk:
-  - oraclejdk8
+language: python
+python:
+  - "2.7"
+ cript: python runut.py
