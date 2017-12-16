@@ -1,4 +1,4 @@
 language: python
 python:
   - "2.7"
- cript: python runut.py
+script: python runut.py
